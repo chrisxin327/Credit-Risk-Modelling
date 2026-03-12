@@ -1,3 +1,8 @@
+![Stars](https://img.shields.io/github/stars/chrisxin327/Python-Projects)
+![Last Commit](https://img.shields.io/github/last-commit/chrisxin327/Python-Projects)
+![Repo Size](https://img.shields.io/github/repo-size/chrisxin327/Python-Projects)
+![Top Language](https://img.shields.io/github/languages/top/chrisxin327/Python-Projects)
+
 # Explainable Credit Risk PD Modelling with WOE-Engineered Features
 ## Desciption
 This project developed a credit risk model to estimate the Probability of Default (PD) for loan applicants. The objective was to identify key borrower characteristics associated with credit default and construct an interpretable model for credit risk assessment.  
