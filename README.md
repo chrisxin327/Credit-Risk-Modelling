@@ -4,7 +4,7 @@
 ![Top Language](https://img.shields.io/github/languages/top/chrisxin327/Python-Projects)
 
 # Explainable Credit Risk PD Modelling with WOE-Engineered Features
-## Desciption
+## Description
 This project developed a credit risk model to estimate the Probability of Default (PD) for loan applicants. The objective was to identify key borrower characteristics associated with credit default and construct an interpretable model for credit risk assessment.  
 
 A logistic regression model was developed using features transformed with the Weight of Evidence (WOE) technique. The advantages of WOE included improved model interpretability, efficient transformation of categorical variables without generating numerous dummy variables, and reduced sensitivity to outliers through binning. However, WOE binning did not always guarantee a monotonic relationship between numerical predictors and the probability of default. To address this limitation, the Pool Adjacent Violators Algorithm (PAVA) was applied to enforce monotonicity and produce more stable predictors.  
